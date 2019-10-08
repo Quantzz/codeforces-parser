@@ -15,7 +15,7 @@ You can also find this article here, [http://codeforces.com/blog/entry/10416](ht
  * Arch Linux (AUR): https://aur.archlinux.org/packages/codeforces-parser-git/ (note that parse.py is renamed codeforces-parser)
 
 ### Example:
-`./parse.py contest_number (e.g. ./parse.py 513)`
+`./parse.py contest_number (e.g. ./parse.py 512)`
 
 Where `512` is the contest number, not the round number! Check the URL of the contest on your browser, that is the number you are supposed to use.
 
